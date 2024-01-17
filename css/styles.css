@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 @import url(http://fonts.googleapis.com/css?family=Economica:400,700);
 @import url(http://fonts.googleapis.com/css?family=Lobster+Two:700);
 body {
-	color:#FFF; 
+	color:#ffffff; 
 	font-family: 'Economica', sans-serif;
 	min-width:960px;
 	top:0;
@@ -30,7 +30,7 @@ body {
 }
 .ico:before{
   content: '';
-  background:url('orange-coming-soon-html-responsive-template/images/hip-hop-penguin-logo-or-icon-design-vector.jpg');
+  background:url('penguin_icon_126709 copy.png');
   background-size:cover;
       position:absolute;
   width:20px;
